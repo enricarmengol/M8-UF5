@@ -39,6 +39,7 @@ public class App {
             boolean valid_data = false;
             while (valid_data == false) {
                   System.out.printf("   - Primer Cognom: ");
+                  System.out.println("jijijija");
                   compte.getPropietari().setPrimer_cognom(sc.nextLine());
                   if (compte.getPropietari().getPrimer_cognom().substring(0, 1).equals(" ") || compte.getPropietari().getPrimer_cognom().toUpperCase().equals("NULL")) {
                         System.out.println("     - Primer Cognom invalid.");

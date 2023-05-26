@@ -6,7 +6,7 @@ package enricact9;
 
 /**
  *
- * @author arcedo
+ * @author EArmengol
  */
 public class CCompteBancari {
 

@@ -96,6 +96,10 @@ public class App {
             account.add(compte);
             System.out.printf("\n\n");
       }
+      
+      static void saludo2(){
+          System.out.println("hola jonathan 2");
+      }
 
       // Metode per introduir les dades i comprovar que les dades siguin correctes
       static void intro_data() {
